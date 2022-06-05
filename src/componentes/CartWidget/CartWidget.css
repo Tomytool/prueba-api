@@ -1,0 +1,17 @@
+.CartWidget{
+    width:4rem;
+    height:4rem;
+    margin-right: 45px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+svg{
+    width:90%;
+    height:100%;
+}
+.CountCarro{
+    width: 10%;
+    font-size: 30px;
+    font-weight: bold;
+}
